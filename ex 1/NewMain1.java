@@ -24,7 +24,7 @@ public class NewMain1 {
         System.out.println("sequence are:");
         for(i=1;i<=n;i++)
         {
-            System.out.println(i);
+            System.out.print(i);
         }
     }
     
