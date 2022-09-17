@@ -1,0 +1,8 @@
+package packagee.pack02;
+
+
+public class test2 {
+    public void display(){
+        System.out.println("THIS IS TEST2 CONTENT AND IT IS TESTED");
+    }
+  }
